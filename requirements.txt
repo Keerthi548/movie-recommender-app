@@ -1,6 +1,6 @@
 pandas
 numpy
-scikit-surprise
+scikit-surprise==1.1.3 --only-binary :all:
 gradio
 scikit-learn
 gunicorn
